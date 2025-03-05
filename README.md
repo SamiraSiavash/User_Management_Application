@@ -23,12 +23,12 @@ You can login with this username and password :
 - username : admin
 - password : 123456
 
-![Image](https://github.com/user-attachments/assets/c3d25557-6d23-47bd-a34d-004607e70312)
+![11](https://github.com/user-attachments/assets/1f02b0c3-77e4-4b95-b9fe-afc5625cbda3)
 
 ## Home Page
 Only Admin Users can see User Management Button.
 
-![Image](https://github.com/user-attachments/assets/544a7cc8-fcc7-42dd-b4e0-7884dd911dc9)
+![12](https://github.com/user-attachments/assets/8c9c1961-f6e2-4fbe-b917-dd4c3dde6bde)
 
 ## User Management Page
 Only Admin Users can access to this page.
@@ -38,9 +38,9 @@ Admin User can :
 - Change Users Status(Active / Deactive / Pending)
 - Change User Role (Admin / User)
 
-![Image](https://github.com/user-attachments/assets/5aa41d83-002a-445b-9b56-27b4ee479f6e)
+![13](https://github.com/user-attachments/assets/823ddd92-a052-4b3e-a382-6d3ac6679b13)
 
 ## Register 
 New users can register by First name, Last name, Username and Password
 
-![Image](https://github.com/user-attachments/assets/651a8047-b0f3-46b6-8be9-251055147416)
+![14](https://github.com/user-attachments/assets/c7c28789-025a-4114-9dcb-2712717e2097)
