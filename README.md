@@ -44,3 +44,4 @@ Admin User can :
 New users can register by First name, Last name, Username and Password
 
 ![14](https://github.com/user-attachments/assets/c7c28789-025a-4114-9dcb-2712717e2097)
+
